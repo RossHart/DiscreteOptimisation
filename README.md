@@ -13,7 +13,7 @@ Solved using a simple branch and bound algorithm, relaxing the integrality const
 
 ### 3. Graph colouring 
 
-This was solved using an iterative greedy approach. If we greedily colour, then re-order so that groups are together, then we can get the same or better colouring at each iteration. This is a very easy scalable approach to the problem (outlined [here](https://pdfs.semanticscholar.org/0535/997d80cc4d1dbd7e02e02a57fe7d82e6fda1.pdf?_ga=2.32457529.686261839.1589381418-1386486068.1587467710).
+This was solved using an iterative greedy approach. If we greedily colour, then re-order so that groups are together, then we can get the same or better colouring at each iteration. This is a very easy scalable approach to the problem (outlined [here](https://pdfs.semanticscholar.org/0535/997d80cc4d1dbd7e02e02a57fe7d82e6fda1.pdf?_ga=2.32457529.686261839.1589381418-1386486068.1587467710)).
 
 ### 4. Travelling salesman 
 
